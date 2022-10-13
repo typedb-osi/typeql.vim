@@ -1,0 +1,9 @@
+= TypeQL.Vim
+
+Basic syntax highlighting for Vaticle TypeQL.
+
+== Installation
+
+To use with Plug, add the following line to your .vimrc or init.vim:
+
+ Plug 'dmitrii-ubskii/typeql.vim'
