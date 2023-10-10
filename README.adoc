@@ -6,4 +6,4 @@ Basic syntax highlighting for Vaticle TypeQL.
 
 To use with Plug, add the following line to your .vimrc or init.vim:
 
- Plug 'dmitrii-ubskii/typeql.vim'
+ Plug 'typedb-osi/typeql.vim'
