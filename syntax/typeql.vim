@@ -15,7 +15,7 @@ else
   setlocal iskeyword=@,48-57,_,192-246,-
 endif
 
-syn keyword typeqlKeyword    match get define undefine insert delete
+syn keyword typeqlKeyword    match get fetch define undefine insert delete
 syn keyword typeqlKeyword    offset limit sort asc desc
 syn keyword typeqlKeyword    type abstract sub sub! owns @key regex
 syn keyword typeqlKeyword    as plays relates when then
