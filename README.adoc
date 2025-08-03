@@ -1,6 +1,8 @@
 = TypeQL.Vim
 
-Basic syntax highlighting for Vaticle TypeQL.
+**Note:** this plugin currently only handles 2.x syntax. Many elements are identical in 3.x, though some highlights will be inaccurate where the language has changed.
+
+Basic syntax highlighting for TypeDB's TypeQL.
 
 == Installation
 
